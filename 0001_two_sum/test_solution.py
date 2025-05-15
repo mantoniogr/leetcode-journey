@@ -1,5 +1,5 @@
 import unittest
-from solution import Solution
+from .solution import Solution
 
 class TestTwoSum(unittest.TestCase):
     def setUp(self):
